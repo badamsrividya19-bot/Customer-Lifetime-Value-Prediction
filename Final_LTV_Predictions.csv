@@ -1,0 +1,6 @@
+CustomerID,Recency,Frequency,Monetary,Customer_Age,Predicted_LTV,Segment
+17850,12,34,5394.87,305,8120.45,High Value
+13047,45,18,2310.6,280,3625.2,Medium Value
+12583,120,6,540.3,210,890.75,Low Value
+14688,8,41,6789.1,320,9450.8,High Value
+15311,67,14,1640.55,260,2480.1,Medium Value
